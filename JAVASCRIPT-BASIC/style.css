@@ -1,0 +1,20 @@
+
+
+
+
+
+
+.box{
+    text-align: center;
+    background-color: antiquewhite;
+    width: 200px;
+    padding-bottom: 50px; 
+    margin-bottom: 20px;
+    padding: 25px;
+    position: relative;
+    
+    /*   if -ve(left) ,+ve(bottom) , the smaller the valuethe sharper the shadow ,
+         +ve(increase the size of shadow , color )*/
+    box-shadow: 5px 5px 10px 3px rgb(221, 218, 218);   
+}
+
