@@ -16,3 +16,17 @@ All about JAVASCRIPT BASIC .
 1 - Marksheet
 2 - Mirror Word
 3 - Calculator
+
+<h2> JAVASCRIPT BASIC 1</h2>
+
+<b> TOPICS</b>
+
+1 - While
+2 - Do while
+3 - Nested For Loop
+4 - Math
+
+<b>PROJECTS</b>
+
+1 - Table Generator
+2- Toss Winner
