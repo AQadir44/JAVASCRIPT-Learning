@@ -30,3 +30,17 @@ All about JAVASCRIPT BASIC .
 
 1 - Table Generator
 2- Toss Winner
+
+
+<h2> JAVASCRIPT BASIC 2</h2>
+
+<b> TOPICS</b>
+
+1 - Date
+2 - Function
+3 - Switch
+4 - Events
+
+<b>PROJECTS</b>
+
+1 - Age finder
