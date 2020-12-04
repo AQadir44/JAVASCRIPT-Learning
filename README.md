@@ -44,3 +44,17 @@ All about JAVASCRIPT BASIC .
 <b>PROJECTS</b>
 
 1 - Age finder
+
+<h2> JAVASCRIPT BASIC 3</h2>
+
+<b> TOPICS</b>
+
+1 - Events
+
+<b>PROJECTS</b>
+
+1 - Image size changer
+2 - On Off Bulb
+3 - Paragraph style changer
+
+
